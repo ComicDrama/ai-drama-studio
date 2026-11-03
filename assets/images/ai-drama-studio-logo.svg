@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 176" role="img" aria-labelledby="logo-title logo-description">
+  <title id="logo-title">AI Drama Studio</title>
+  <desc id="logo-description">The project's film-and-play mark beside the AI Drama Studio wordmark.</desc>
+  <defs>
+    <linearGradient id="wordmark-bg" x1="12" y1="8" x2="690" y2="170" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#173D42"/>
+      <stop offset="1" stop-color="#3A9690"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="4" y="4" width="712" height="168" rx="32" fill="url(#wordmark-bg)"/>
+
+  <svg x="30" y="40" width="96" height="96" viewBox="0 0 64 64" aria-hidden="true">
+    <defs>
+      <linearGradient id="mark-bg" x1="8" y1="6" x2="56" y2="60" gradientUnits="userSpaceOnUse">
+        <stop stop-color="#3A9690"/>
+        <stop offset="1" stop-color="#173D42"/>
+      </linearGradient>
+      <linearGradient id="mark-film" x1="17" y1="14" x2="48" y2="49" gradientUnits="userSpaceOnUse">
+        <stop stop-color="#F2FAF7"/>
+        <stop offset="1" stop-color="#D6ECE8"/>
+      </linearGradient>
+    </defs>
+    <rect x="2" y="2" width="60" height="60" rx="18" fill="url(#mark-bg)"/>
+    <path d="M18 15.5h28a4 4 0 0 1 4 4v25a4 4 0 0 1-4 4H18a4 4 0 0 1-4-4v-25a4 4 0 0 1 4-4Z" fill="url(#mark-film)"/>
+    <path d="M14 24h36M14 40h36" stroke="#3A8C83" stroke-width="3"/>
+    <path d="m27 27 12 5-12 5V27Z" fill="#206F6D" stroke="#206F6D" stroke-linejoin="round"/>
+    <path d="M21 16v7m11-7v7m11-7v7M21 41v7m11-7v7m11-7v7" stroke="#3A8C83" stroke-width="2" stroke-linecap="round"/>
+    <path d="m49 11 1.4 3.6L54 16l-3.6 1.4L49 21l-1.4-3.6L44 16l3.6-1.4L49 11Z" fill="#EAF4F1"/>
+  </svg>
+
+  <text x="158" y="84" fill="#FFFFFF" font-family="Inter, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="43" font-weight="750" letter-spacing="1.4">AI DRAMA STUDIO</text>
+  <text x="161" y="119" fill="#CDE9E3" font-family="Inter, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="15" font-weight="600" letter-spacing="3.4">SCRIPT  ·  STORYBOARD  ·  VIDEO</text>
+</svg>
