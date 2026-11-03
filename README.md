@@ -13,7 +13,7 @@
 
 [Features](#features) • [Workflow](#workflow) • [Download](#download) • [About](#about)
 
-[**Download for Windows x64 · Version 0.0.1**](https://installer.madongdong.com/ai-drama-studio/v0.0.1-build.1/AIDramaStudio.Setup.0.0.1.exe) · [Visit the official website](https://drama.madongdong.com)
+[**Download for Windows x64**](https://installer.madongdong.com/ai-drama-studio/v0.0.1-build.1/AIDramaStudio.Setup.0.0.1.exe) · [Visit the official website](https://drama.madongdong.com)
 
 </div>
 
@@ -44,7 +44,7 @@ Move through a connected production workflow. Each stage prepares material for t
 
 The first desktop release is for **Windows x64**. The installer is approximately **143 MiB**.
 
-[Download AIDramaStudio Setup 0.0.1](https://installer.madongdong.com/ai-drama-studio/v0.0.1-build.1/AIDramaStudio.Setup.0.0.1.exe)
+[Download for Windows x64](https://installer.madongdong.com/ai-drama-studio/v0.0.1-build.1/AIDramaStudio.Setup.0.0.1.exe)
 
 The Windows installer is currently unsigned, so Windows may show a security prompt when you first run it. AI features connect to the provider you configure in the app; provider accounts, API credentials, and usage charges are separate.
 

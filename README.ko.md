@@ -13,7 +13,7 @@
 
 [기능](#features) • [제작 과정](#workflow) • [다운로드](#download) • [소개](#about)
 
-[**Windows x64 다운로드 · 버전 0.0.1**](https://installer.madongdong.com/ai-drama-studio/v0.0.1-build.1/AIDramaStudio.Setup.0.0.1.exe) · [공식 웹사이트](https://drama.madongdong.com)
+[**Windows x64 다운로드**](https://installer.madongdong.com/ai-drama-studio/v0.0.1-build.1/AIDramaStudio.Setup.0.0.1.exe) · [공식 웹사이트](https://drama.madongdong.com)
 
 </div>
 
@@ -44,7 +44,7 @@
 
 첫 데스크톱 버전은 **Windows x64**를 지원합니다. 설치 파일 크기는 약 **143 MiB**입니다.
 
-[AIDramaStudio Setup 0.0.1 다운로드](https://installer.madongdong.com/ai-drama-studio/v0.0.1-build.1/AIDramaStudio.Setup.0.0.1.exe)
+[Windows x64 다운로드](https://installer.madongdong.com/ai-drama-studio/v0.0.1-build.1/AIDramaStudio.Setup.0.0.1.exe)
 
 현재 Windows 설치 파일은 서명되지 않았으므로 처음 실행할 때 Windows 보안 경고가 표시될 수 있습니다. AI 기능은 앱에서 설정한 서비스 제공업체에 연결됩니다. 제공업체 계정, API 키, 사용 요금은 별도입니다.
 
