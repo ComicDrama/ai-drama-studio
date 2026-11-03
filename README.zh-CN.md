@@ -7,6 +7,8 @@
 [![Node.js 版本](https://img.shields.io/badge/Node.js-22.13.0%2B-339933?style=flat&logo=node.js)](https://nodejs.org)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Vue 版本](https://img.shields.io/badge/Vue-3.x-4FC08D?style=flat&logo=vue.js)](https://vuejs.org)
+[![Electron](https://img.shields.io/badge/Electron-%E6%A1%8C%E9%9D%A2%E5%BA%94%E7%94%A8-47848F?style=flat&logo=electron&logoColor=white)](https://www.electronjs.org/)
+[![最新版本](https://img.shields.io/github/v/release/ComicDrama/ai-drama-studio?display_name=tag)](https://github.com/ComicDrama/ai-drama-studio/releases)
 ![BSD 3-Clause 许可证](https://img.shields.io/badge/BSD-3-Clause%20license?style=flat)
 
 [English](README.md) · **简体中文** · [日本語](README.ja.md) · [한국어](README.ko.md)
