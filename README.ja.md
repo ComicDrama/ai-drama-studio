@@ -15,7 +15,7 @@
 
 [機能](#features) • [制作の流れ](#workflow) • [ダウンロード](#download) • [クレジット](#about)
 
-[**Windows x64 版をダウンロード**](https://installer.madongdong.com/ai-drama-studio/v0.0.1-build.1/AIDramaStudio.Setup.0.0.1.exe) · [公式サイト](https://drama.madongdong.com)
+[**Windows x64 版をダウンロード**](https://github.com/ComicDrama/ai-drama-studio/releases/download/v0.0.1/AIDramaStudio.Setup.0.0.1.exe) · [公式サイト](https://drama.madongdong.com)
 
 </div>
 
@@ -46,7 +46,7 @@
 
 最初のデスクトップ版は **Windows x64** に対応しています。インストーラーのサイズは約 **143 MiB** です。
 
-[Windows x64 版をダウンロード](https://installer.madongdong.com/ai-drama-studio/v0.0.1-build.1/AIDramaStudio.Setup.0.0.1.exe)
+[Windows x64 版をダウンロード](https://github.com/ComicDrama/ai-drama-studio/releases/download/v0.0.1/AIDramaStudio.Setup.0.0.1.exe)
 
 現在の Windows インストーラーには署名がありません。初回起動時に Windows のセキュリティ警告が表示される場合があります。AI 機能を利用するには、アプリ内で設定するプロバイダーのアカウントと API キーが必要です。利用料金は各プロバイダーの条件に従います。
 
