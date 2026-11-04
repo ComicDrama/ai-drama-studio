@@ -15,7 +15,7 @@
 
 [功能特性](#features) • [制作流程](#workflow) • [下载](#download) • [QQ 社群](#community) • [关于](#about)
 
-[![下载 Windows x64 版](https://img.shields.io/badge/%E4%B8%8B%E8%BD%BD-Windows%20x64-2E8B83?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/ComicDrama/ai-drama-studio/releases/download/v0.0.1/AIDramaStudio.Setup.0.0.1.exe) [![官方网站](https://img.shields.io/badge/%E5%AE%98%E6%96%B9-%E7%BD%91%E7%AB%99-526B73?style=for-the-badge&logo=googlechrome&logoColor=white)](https://drama.madongdong.com) [![AI漫剧学习之路](https://pub.idqqimg.com/wpa/images/group.png)](https://qm.qq.com/q/eKbq2KPMXK)
+[![下载 Windows x64 版](https://img.shields.io/badge/%E4%B8%8B%E8%BD%BD-Windows%20x64-2E8B83?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/ComicDrama/ai-drama-studio/releases/download/v0.0.1/AIDramaStudio.Setup.0.0.1.exe) [![官方网站](https://img.shields.io/badge/%E5%AE%98%E6%96%B9-%E7%BD%91%E7%AB%99-526B73?style=for-the-badge&logo=googlechrome&logoColor=white)](https://drama.madongdong.com)
 
 </div>
 
@@ -60,4 +60,6 @@
 <a id="community"></a>
 ## QQ 社群
 
-[加入 AI Drama Studio QQ 社群](https://qm.qq.com/q/eKbq2KPMXK)，与创作者交流使用体验和建议。
+[![Group#1](https://img.shields.io/badge/Group%231-Join-blue)](https://qm.qq.com/q/eKbq2KPMXK)
+
+加入 AI Drama Studio QQ 社群，与创作者交流使用体验和建议。
