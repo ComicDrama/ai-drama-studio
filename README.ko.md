@@ -9,7 +9,7 @@
 [![Vue 버전](https://img.shields.io/badge/Vue-3.x-4FC08D?style=flat&logo=vue.js)](https://vuejs.org)
 [![Electron](https://img.shields.io/badge/Electron-%EB%8D%B0%EC%8A%A4%ED%81%AC%ED%86%B1%20%EC%95%B1-47848F?style=flat&logo=electron&logoColor=white)](https://www.electronjs.org/)
 [![최신 릴리스](https://img.shields.io/github/v/release/ComicDrama/ai-drama-studio?display_name=tag)](https://github.com/ComicDrama/ai-drama-studio/releases)
-![BSD 3-Clause 라이선스](https://img.shields.io/badge/BSD-3-Clause%20license?style=flat)
+[![라이선스: BSD 3-Clause](https://img.shields.io/badge/License-BSD%203-Clause-blue?style=flat)](LICENSE)
 
 [English](README.md) · [简体中文](README.zh-CN.md) · [日本語](README.ja.md) · **한국어**
 
