@@ -15,7 +15,7 @@
 
 [기능](#features) • [제작 과정](#workflow) • [다운로드](#download) • [소개](#about)
 
-[![Windows x64 다운로드](https://img.shields.io/badge/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C-Windows%20x64-2E8B83?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/ComicDrama/ai-drama-studio/releases/download/v0.0.1/AIDramaStudio.Setup.0.0.1.exe) · [공식 웹사이트](https://drama.madongdong.com)
+[![Windows x64 다운로드](https://img.shields.io/badge/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C-Windows%20x64-2E8B83?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/ComicDrama/ai-drama-studio/releases/download/v0.0.1/AIDramaStudio.Setup.0.0.1.exe) [![공식 웹사이트](https://img.shields.io/badge/%EA%B3%B5%EC%8B%9D-%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8-526B73?style=for-the-badge&logo=googlechrome&logoColor=white)](https://drama.madongdong.com)
 
 </div>
 

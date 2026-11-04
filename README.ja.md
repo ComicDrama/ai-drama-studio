@@ -15,7 +15,7 @@
 
 [機能](#features) • [制作の流れ](#workflow) • [ダウンロード](#download) • [クレジット](#about)
 
-[![Windows x64 版をダウンロード](https://img.shields.io/badge/%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89-Windows%20x64-2E8B83?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/ComicDrama/ai-drama-studio/releases/download/v0.0.1/AIDramaStudio.Setup.0.0.1.exe) · [公式サイト](https://drama.madongdong.com)
+[![Windows x64 版をダウンロード](https://img.shields.io/badge/%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89-Windows%20x64-2E8B83?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/ComicDrama/ai-drama-studio/releases/download/v0.0.1/AIDramaStudio.Setup.0.0.1.exe) [![公式サイト](https://img.shields.io/badge/%E5%85%AC%E5%BC%8F-%E3%82%B5%E3%82%A4%E3%83%88-526B73?style=for-the-badge&logo=googlechrome&logoColor=white)](https://drama.madongdong.com)
 
 </div>
 

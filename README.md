@@ -15,7 +15,7 @@
 
 [Features](#features) • [Workflow](#workflow) • [Download](#download) • [About](#about)
 
-[![Download for Windows x64](https://img.shields.io/badge/Download-Windows%20x64-2E8B83?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/ComicDrama/ai-drama-studio/releases/download/v0.0.1/AIDramaStudio.Setup.0.0.1.exe) · [Visit the official website](https://drama.madongdong.com)
+[![Download for Windows x64](https://img.shields.io/badge/Download-Windows%20x64-2E8B83?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/ComicDrama/ai-drama-studio/releases/download/v0.0.1/AIDramaStudio.Setup.0.0.1.exe) [![Official website](https://img.shields.io/badge/Official-Website-526B73?style=for-the-badge&logo=googlechrome&logoColor=white)](https://drama.madongdong.com)
 
 </div>
 
