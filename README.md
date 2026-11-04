@@ -9,7 +9,7 @@
 [![Vue Version](https://img.shields.io/badge/Vue-3.x-4FC08D?style=flat&logo=vue.js)](https://vuejs.org)
 [![Electron](https://img.shields.io/badge/Electron-Desktop%20app-47848F?style=flat&logo=electron&logoColor=white)](https://www.electronjs.org/)
 [![Latest Release](https://img.shields.io/github/v/release/ComicDrama/ai-drama-studio?display_name=tag)](https://github.com/ComicDrama/ai-drama-studio/releases)
-[![License: BSD 3-Clause](https://img.shields.io/badge/License-BSD%203-Clause-blue?style=flat)](LICENSE)
+[![License: BSD 3-Clause](https://img.shields.io/badge/License-BSD%203--Clause-blue?style=flat)](LICENSE)
 
 **English** | [简体中文](README.zh-CN.md) | [日本語](README.ja.md) | [한국어](README.ko.md)
 
