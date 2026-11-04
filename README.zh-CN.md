@@ -15,7 +15,7 @@
 
 [功能特性](#features) • [制作流程](#workflow) • [下载](#download) • [关于](#about)
 
-[**下载 Windows x64 版**](https://github.com/ComicDrama/ai-drama-studio/releases/download/v0.0.1/AIDramaStudio.Setup.0.0.1.exe) · [访问官方网站](https://drama.madongdong.com)
+[![下载 Windows x64 版](https://img.shields.io/badge/%E4%B8%8B%E8%BD%BD-Windows%20x64-2E8B83?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/ComicDrama/ai-drama-studio/releases/download/v0.0.1/AIDramaStudio.Setup.0.0.1.exe) · [访问官方网站](https://drama.madongdong.com)
 
 </div>
 
@@ -46,7 +46,7 @@
 
 首个桌面版本支持 **Windows x64**，安装包约 **143 MiB**。
 
-[下载 Windows x64 版](https://github.com/ComicDrama/ai-drama-studio/releases/download/v0.0.1/AIDramaStudio.Setup.0.0.1.exe)
+[![下载 Windows x64 版](https://img.shields.io/badge/%E4%B8%8B%E8%BD%BD-Windows%20x64-2E8B83?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/ComicDrama/ai-drama-studio/releases/download/v0.0.1/AIDramaStudio.Setup.0.0.1.exe)
 
 当前 Windows 安装包尚未签名，首次运行时 Windows 可能显示安全提示。AI 功能会连接你在应用中配置的服务商；服务商账号、API 密钥和使用费用需另行准备。
 
