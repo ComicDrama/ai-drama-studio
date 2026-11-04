@@ -13,7 +13,7 @@
 
 **English** | [简体中文](README.zh-CN.md) | [日本語](README.ja.md) | [한국어](README.ko.md)
 
-[Features](#features) • [Workflow](#workflow) • [Download](#download) • [About](#about)
+[Features](#features) • [Workflow](#workflow) • [Download](#download) • [QQ Community](#community) • [About](#about)
 
 [![Download for Windows x64](https://img.shields.io/badge/Download-Windows%20x64-2E8B83?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/ComicDrama/ai-drama-studio/releases/download/v0.0.1/AIDramaStudio.Setup.0.0.1.exe) [![Official website](https://img.shields.io/badge/Official-Website-526B73?style=for-the-badge&logo=googlechrome&logoColor=white)](https://drama.madongdong.com)
 
@@ -56,3 +56,10 @@ The Windows installer is currently unsigned, so Windows may show a security prom
 Created by [Lumosylva](https://github.com/Lumosylva) · [Official website](https://drama.madongdong.com)
 
 Licensed under the [BSD 3-Clause License](LICENSE).
+
+<a id="community"></a>
+## QQ Community
+
+[![Join the QQ community](https://img.shields.io/badge/QQ-Join%20community-12B7F5?style=for-the-badge&logo=tencentqq&logoColor=white)](https://qm.qq.com/q/eKbq2KPMXK)
+
+Join the AI Drama Studio QQ community to share feedback and connect with other creators.

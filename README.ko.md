@@ -13,7 +13,7 @@
 
 [English](README.md) · [简体中文](README.zh-CN.md) · [日本語](README.ja.md) · **한국어**
 
-[기능](#features) • [제작 과정](#workflow) • [다운로드](#download) • [소개](#about)
+[기능](#features) • [제작 과정](#workflow) • [다운로드](#download) • [QQ 커뮤니티](#community) • [소개](#about)
 
 [![Windows x64 다운로드](https://img.shields.io/badge/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C-Windows%20x64-2E8B83?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/ComicDrama/ai-drama-studio/releases/download/v0.0.1/AIDramaStudio.Setup.0.0.1.exe) [![공식 웹사이트](https://img.shields.io/badge/%EA%B3%B5%EC%8B%9D-%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8-526B73?style=for-the-badge&logo=googlechrome&logoColor=white)](https://drama.madongdong.com)
 
@@ -56,3 +56,10 @@
 제작: [Lumosylva](https://github.com/Lumosylva) · [공식 웹사이트](https://drama.madongdong.com)
 
 [BSD 3-Clause License](LICENSE)를 따릅니다.
+
+<a id="community"></a>
+## QQ 커뮤니티
+
+[![QQ 커뮤니티 참여](https://img.shields.io/badge/QQ-%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0%20%EC%B0%B8%EC%97%AC-12B7F5?style=for-the-badge&logo=tencentqq&logoColor=white)](https://qm.qq.com/q/eKbq2KPMXK)
+
+AI Drama Studio QQ 커뮤니티에서 사용 경험과 의견을 나누고 다른 창작자들과 교류해 보세요.

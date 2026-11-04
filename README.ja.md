@@ -13,7 +13,7 @@
 
 [English](README.md) · [简体中文](README.zh-CN.md) · **日本語** · [한국어](README.ko.md)
 
-[機能](#features) • [制作の流れ](#workflow) • [ダウンロード](#download) • [クレジット](#about)
+[機能](#features) • [制作の流れ](#workflow) • [ダウンロード](#download) • [QQ コミュニティ](#community) • [クレジット](#about)
 
 [![Windows x64 版をダウンロード](https://img.shields.io/badge/%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89-Windows%20x64-2E8B83?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/ComicDrama/ai-drama-studio/releases/download/v0.0.1/AIDramaStudio.Setup.0.0.1.exe) [![公式サイト](https://img.shields.io/badge/%E5%85%AC%E5%BC%8F-%E3%82%B5%E3%82%A4%E3%83%88-526B73?style=for-the-badge&logo=googlechrome&logoColor=white)](https://drama.madongdong.com)
 
@@ -56,3 +56,10 @@
 作者：[Lumosylva](https://github.com/Lumosylva) · [公式サイト](https://drama.madongdong.com)
 
 [BSD 3-Clause License](LICENSE) のもとで公開されています。
+
+<a id="community"></a>
+## QQ コミュニティ
+
+[![QQ コミュニティに参加](https://img.shields.io/badge/QQ-%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3%E3%81%AB%E5%8F%82%E5%8A%A0-12B7F5?style=for-the-badge&logo=tencentqq&logoColor=white)](https://qm.qq.com/q/eKbq2KPMXK)
+
+AI Drama Studio の QQ コミュニティで、使用感やご意見を共有し、ほかのクリエイターと交流できます。
