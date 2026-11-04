@@ -15,7 +15,7 @@
 
 [功能特性](#features) • [制作流程](#workflow) • [下载](#download) • [QQ 社群](#community) • [关于](#about)
 
-[![下载 Windows x64 版](https://img.shields.io/badge/%E4%B8%8B%E8%BD%BD-Windows%20x64-2E8B83?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/ComicDrama/ai-drama-studio/releases/download/v0.0.1/AIDramaStudio.Setup.0.0.1.exe) [![官方网站](https://img.shields.io/badge/%E5%AE%98%E6%96%B9-%E7%BD%91%E7%AB%99-526B73?style=for-the-badge&logo=googlechrome&logoColor=white)](https://drama.madongdong.com) [![加入 QQ 社群](https://img.shields.io/badge/QQ-%E5%8A%A0%E5%85%A5%E7%A4%BE%E7%BE%A4-12B7F5?style=for-the-badge&logo=tencentqq&logoColor=white)](https://qm.qq.com/q/eKbq2KPMXK)
+[![下载 Windows x64 版](https://img.shields.io/badge/%E4%B8%8B%E8%BD%BD-Windows%20x64-2E8B83?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/ComicDrama/ai-drama-studio/releases/download/v0.0.1/AIDramaStudio.Setup.0.0.1.exe) [![官方网站](https://img.shields.io/badge/%E5%AE%98%E6%96%B9-%E7%BD%91%E7%AB%99-526B73?style=for-the-badge&logo=googlechrome&logoColor=white)](https://drama.madongdong.com) <a target="_blank" rel="noopener noreferrer" href="https://qm.qq.com/q/eKbq2KPMXK"><img border="0" src="https://pub.idqqimg.com/wpa/images/group.png" alt="AI漫剧学习之路" title="AI漫剧学习之路"></a>
 
 </div>
 
