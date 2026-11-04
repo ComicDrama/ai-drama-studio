@@ -60,6 +60,6 @@
 <a id="community"></a>
 ## QQ 社群
 
-[![Group#1](https://img.shields.io/badge/Group%231-Join-blue)](https://qm.qq.com/q/eKbq2KPMXK)
+[![加入 QQ 社群](https://img.shields.io/badge/QQ-%E5%8A%A0%E5%85%A5%E7%A4%BE%E7%BE%A4-2E8B83?style=for-the-badge&logo=tencentqq&logoColor=white)](https://qm.qq.com/q/eKbq2KPMXK)
 
 加入 AI Drama Studio QQ 社群，与创作者交流使用体验和建议。
