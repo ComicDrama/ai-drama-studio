@@ -13,16 +13,16 @@
 
 **English** | [简体中文](README.zh-CN.md) | [日本語](README.ja.md) | [한국어](README.ko.md)
 
-[Features](#features) • [Workflow](#workflow) • [Download](#download) • [QQ Community](#community) • [About](#about)
+[Features](#features) • [Workflow](#workflow) • [AI providers](#models) • [Download](#download) • [QQ Community](#community) • [About](#about)
 
 [![Download for Windows x64](https://img.shields.io/badge/Download-Windows%20x64-2E8B83?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/ComicDrama/ai-drama-studio/releases/download/v0.0.1/AIDramaStudio.Setup.0.0.1.exe) [![Official website](https://img.shields.io/badge/Official-Website-526B73?style=for-the-badge&logo=googlechrome&logoColor=white)](https://drama.madongdong.com)
 
 </div>
 
 <a id="workflow"></a>
-## Create from script to finished episode
+## From first draft to finished episode
 
-Move through a connected production workflow. Each stage prepares material for the next, and you can return to earlier stages to revise your work.
+Turn a story idea or screenplay into a production-ready short drama. AI Drama Studio connects writing, visual development, directing, video generation, and export in one workspace—so creators can spend less time moving between tools and more time shaping the story.
 
 1. **Import and organize scripts** into projects and episodes.
 2. **Rewrite and refine** story material and dialogue with AI.
@@ -31,15 +31,25 @@ Move through a connected production workflow. Each stage prepares material for t
 5. **Generate and review shot videos**, track task progress, then combine clips and export the episode.
 
 <a id="features"></a>
-## Made for a coherent production workflow
+## Made for AI short-drama creators
 
-- Keep each project’s scripts, assets, episodes, and task history together.
-- Reuse character, location, and prop references throughout a project.
-- Bind a voice reference to a character and automatically include it when that character appears in a shot.
-- Set project-wide text, image, and video models; use episode-level directing overrides when a story needs them.
-- Check directing plans against video model constraints before generation.
-- Use AI agents for script rewriting, asset extraction, storyboard breakdown, and prompt generation.
+- **Keep the whole production connected.** Scripts, episodes, reusable assets, generation tasks, and exports stay organized by project.
+- **Build a consistent visual world.** Reuse character, location, and prop references across episodes, and attach a voice reference to a character for automatic use in matching shots.
+- **Direct with intention.** Set project-wide text, image, and video models, then adjust an episode’s directing plan when a story calls for it.
+- **Move from plan to production.** AI agents can help rewrite scripts, extract assets, break episodes into storyboards, and draft prompts; you stay in control of the creative decisions.
+- **Catch constraints before generation.** Review storyboard duration and prompt requirements against the selected video model before spending generation resources.
 - Work in English, 简体中文, 日本語, or 한국어.
+
+<a id="models"></a>
+## Connect the AI models you want to use
+
+Bring your own provider account and API credentials, then choose the models that fit each part of your production. The app does not lock you into one bundled model catalog.
+
+- **Writing and story development:** OpenAI-compatible chat APIs, Google Gemini, Volcengine, and the LK888 model hub.
+- **Image creation and editing:** OpenAI-compatible image APIs, Gemini image models, Volcengine, and LK888 image models.
+- **Video generation:** Volcengine Seedance, MiniMax H3, Alibaba Cloud Wan 3.0, AutoDL H3, and LK888 video models.
+
+Model availability, input limits, and capabilities depend on the provider, account permissions, and region. Configure only services and models you can access; provider accounts, API credentials, and usage charges are separate.
 
 <a id="download"></a>
 ## Download
