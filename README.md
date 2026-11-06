@@ -13,7 +13,7 @@
 
 **English** | [简体中文](README.zh-CN.md) | [日本語](README.ja.md) | [한국어](README.ko.md)
 
-[Features](#features) • [Workflow](#workflow) • [AI providers](#models) • [Download](#download) • [QQ Community](#community) • [About](#about)
+[Features](#features) • [Workflow](#workflow) • [Screenshots](#screenshots) • [AI providers](#models) • [Download](#download) • [QQ Community](#community) • [About](#about)
 
 [![Download for Windows x64](https://img.shields.io/badge/Download-Windows%20x64-2E8B83?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/ComicDrama/ai-drama-studio/releases/download/v0.0.1/AIDramaStudio.Setup.0.0.1.exe) [![Official website](https://img.shields.io/badge/Official-Website-526B73?style=for-the-badge&logo=googlechrome&logoColor=white)](https://drama.madongdong.com)
 
@@ -39,6 +39,63 @@ Turn a story idea or screenplay into a production-ready short drama. AI Drama St
 - **Move from plan to production.** AI agents can help rewrite scripts, extract assets, break episodes into storyboards, and draft prompts; you stay in control of the creative decisions.
 - **Catch constraints before generation.** Review storyboard duration and prompt requirements against the selected video model before spending generation resources.
 - Work in English, 简体中文, 日本語, or 한국어.
+
+<a id="screenshots"></a>
+## Explore the workspace
+
+Take a look at the project workspace, then explore the setup and production flow. Expand a section to see more screens.
+
+<p align="center"><img src="assets/images/EN/Project-Main-Interface.png" alt="AI Drama Studio project workspace" width="900"></p>
+
+<details>
+<summary>Project setup and creative tools</summary>
+
+<p><strong>Create a project</strong></p>
+<p align="center"><img src="assets/images/EN/New-Project.png" alt="Create a new drama project" width="900"></p>
+
+<p><strong>Import a screenplay</strong></p>
+<p align="center"><img src="assets/images/EN/Import-Script.png" alt="Import a screenplay into a project" width="900"></p>
+
+<p><strong>Project settings</strong></p>
+<p align="center"><img src="assets/images/EN/Project-Settings.png" alt="Configure project-wide generation settings" width="900"></p>
+
+<p><strong>AI service configuration</strong></p>
+<p align="center"><img src="assets/images/EN/Settings-AI-Service-Configuration.png" alt="Configure AI service providers and models" width="900"></p>
+
+<p><strong>Visual style presets</strong></p>
+<p align="center"><img src="assets/images/EN/Style-Presets.png" alt="Manage visual style presets" width="900"></p>
+
+<p><strong>Agent configuration</strong></p>
+<p align="center"><img src="assets/images/EN/Agent-Configuration.png" alt="Configure AI agents" width="900"></p>
+
+<p><strong>Project-wide asset library</strong></p>
+<p align="center"><img src="assets/images/EN/Full-Production-Asset-Library.png" alt="Browse characters, locations, props, and voice references across a project" width="900"></p>
+</details>
+
+<details>
+<summary>Episode production workflow</summary>
+
+<p><strong>Original story content</strong></p>
+<p align="center"><img src="assets/images/EN/Workflow-Original-Content.png" alt="Review and organize episode story content" width="900"></p>
+
+<p><strong>AI rewriting</strong></p>
+<p align="center"><img src="assets/images/EN/Workflow-AI-Rewriting.png" alt="Rewrite and refine a script with AI" width="900"></p>
+
+<p><strong>Asset creation</strong></p>
+<p align="center"><img src="assets/images/EN/Workflow-Asset-Creation.png" alt="Create character and scene assets" width="900"></p>
+
+<p><strong>Director planning</strong></p>
+<p align="center"><img src="assets/images/EN/Workflow-Director-Planning.png" alt="Plan storyboards and directing choices" width="900"></p>
+
+<p><strong>Video production</strong></p>
+<p align="center"><img src="assets/images/EN/Workflow-Video-Production.png" alt="Generate and review storyboard videos" width="900"></p>
+
+<p><strong>Task list</strong></p>
+<p align="center"><img src="assets/images/EN/Workflow-Task-List.png" alt="Track generation task progress" width="900"></p>
+
+<p><strong>Video export</strong></p>
+<p align="center"><img src="assets/images/EN/Workflow-Video-Export.png" alt="Combine and export an episode" width="900"></p>
+</details>
 
 <a id="models"></a>
 ## Connect the AI models you want to use

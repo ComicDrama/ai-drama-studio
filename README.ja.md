@@ -13,7 +13,7 @@
 
 [English](README.md) · [简体中文](README.zh-CN.md) · **日本語** · [한국어](README.ko.md)
 
-[機能](#features) • [制作の流れ](#workflow) • [AI サービス](#models) • [ダウンロード](#download) • [QQ コミュニティ](#community) • [クレジット](#about)
+[機能](#features) • [制作の流れ](#workflow) • [画面紹介](#screenshots) • [AI サービス](#models) • [ダウンロード](#download) • [QQ コミュニティ](#community) • [クレジット](#about)
 
 [![Windows x64 版をダウンロード](https://img.shields.io/badge/%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89-Windows%20x64-2E8B83?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/ComicDrama/ai-drama-studio/releases/download/v0.0.1/AIDramaStudio.Setup.0.0.1.exe) [![公式サイト](https://img.shields.io/badge/%E5%85%AC%E5%BC%8F-%E3%82%B5%E3%82%A4%E3%83%88-526B73?style=for-the-badge&logo=googlechrome&logoColor=white)](https://drama.madongdong.com)
 
@@ -39,6 +39,63 @@
 - **プランから制作へスムーズに。** AI Agent が脚本の推敲、アセット抽出、ストーリーボード分割、プロンプト作成を支援します。創作上の判断はあなたが行えます。
 - **生成前にモデルの制約を確認。** 選択した動画モデルの尺やプロンプト要件を事前に確認し、生成を始めてから互換性の問題に気付くリスクを減らします。
 - English、简体中文、日本語、한국어の UI に対応しています。
+
+<a id="screenshots"></a>
+## 制作ワークスペースを見る
+
+プロジェクト画面を紹介します。各セクションを開くと、設定からエピソード制作までの画面をご覧いただけます。スクリーンショットは英語 UI です。
+
+<p align="center"><img src="assets/images/EN/Project-Main-Interface.png" alt="AI Drama Studio のプロジェクト画面" width="900"></p>
+
+<details>
+<summary>プロジェクト設定と創作ツール</summary>
+
+<p><strong>プロジェクトを新規作成</strong></p>
+<p align="center"><img src="assets/images/EN/New-Project.png" alt="ショートドラマのプロジェクトを新規作成" width="900"></p>
+
+<p><strong>脚本をインポート</strong></p>
+<p align="center"><img src="assets/images/EN/Import-Script.png" alt="プロジェクトに脚本をインポート" width="900"></p>
+
+<p><strong>プロジェクト設定</strong></p>
+<p align="center"><img src="assets/images/EN/Project-Settings.png" alt="プロジェクト共通の生成設定" width="900"></p>
+
+<p><strong>AI サービス設定</strong></p>
+<p align="center"><img src="assets/images/EN/Settings-AI-Service-Configuration.png" alt="AI サービスとモデルを設定" width="900"></p>
+
+<p><strong>ビジュアルスタイル</strong></p>
+<p align="center"><img src="assets/images/EN/Style-Presets.png" alt="ビジュアルスタイルのプリセットを管理" width="900"></p>
+
+<p><strong>Agent 設定</strong></p>
+<p align="center"><img src="assets/images/EN/Agent-Configuration.png" alt="AI Agent を設定" width="900"></p>
+
+<p><strong>プロジェクト全体のアセットライブラリ</strong></p>
+<p align="center"><img src="assets/images/EN/Full-Production-Asset-Library.png" alt="プロジェクト内のキャラクター、ロケーション、小道具、音声リファレンスを管理" width="900"></p>
+</details>
+
+<details>
+<summary>エピソード制作の流れ</summary>
+
+<p><strong>ストーリー素材</strong></p>
+<p align="center"><img src="assets/images/EN/Workflow-Original-Content.png" alt="エピソードのストーリー内容を整理" width="900"></p>
+
+<p><strong>AI リライト</strong></p>
+<p align="center"><img src="assets/images/EN/Workflow-AI-Rewriting.png" alt="AI で脚本をリライトして推敲" width="900"></p>
+
+<p><strong>アセット制作</strong></p>
+<p align="center"><img src="assets/images/EN/Workflow-Asset-Creation.png" alt="キャラクターとシーンのアセットを制作" width="900"></p>
+
+<p><strong>演出プラン</strong></p>
+<p align="center"><img src="assets/images/EN/Workflow-Director-Planning.png" alt="ストーリーボードと演出方針を計画" width="900"></p>
+
+<p><strong>動画制作</strong></p>
+<p align="center"><img src="assets/images/EN/Workflow-Video-Production.png" alt="ショット動画を生成して確認" width="900"></p>
+
+<p><strong>タスクリスト</strong></p>
+<p align="center"><img src="assets/images/EN/Workflow-Task-List.png" alt="生成タスクの進捗を確認" width="900"></p>
+
+<p><strong>動画を書き出す</strong></p>
+<p align="center"><img src="assets/images/EN/Workflow-Video-Export.png" alt="エピソード動画を結合して書き出す" width="900"></p>
+</details>
 
 <a id="models"></a>
 ## 好みの AI モデルを接続

@@ -13,7 +13,7 @@
 
 [English](README.md) · **简体中文** · [日本語](README.ja.md) · [한국어](README.ko.md)
 
-[功能特性](#features) • [制作流程](#workflow) • [AI 服务接入](#models) • [下载](#download) • [QQ 社群](#community) • [关于](#about)
+[功能特性](#features) • [制作流程](#workflow) • [界面展示](#screenshots) • [AI 服务接入](#models) • [下载](#download) • [QQ 社群](#community) • [关于](#about)
 
 [![下载 Windows x64 版](https://img.shields.io/badge/%E4%B8%8B%E8%BD%BD-Windows%20x64-2E8B83?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/ComicDrama/ai-drama-studio/releases/download/v0.0.1/AIDramaStudio.Setup.0.0.1.exe) [![官方网站](https://img.shields.io/badge/%E5%AE%98%E6%96%B9-%E7%BD%91%E7%AB%99-526B73?style=for-the-badge&logo=googlechrome&logoColor=white)](https://drama.madongdong.com)
 
@@ -39,6 +39,63 @@
 - **从规划顺畅进入制作。** AI Agent 可协助改写剧本、提取资产、拆分分镜和撰写提示词，创意取舍仍由你决定。
 - **生成前检查模型约束。** 根据所选视频模型检查分镜时长和提示词要求，减少提交生成后才发现不兼容的情况。
 - 支持简体中文、English、日本語和한국어界面。
+
+<a id="screenshots"></a>
+## 看看创作工作台
+
+先浏览项目主界面，再展开设置与制作流程，了解从导入剧本到导出短剧的完整体验。
+
+<p align="center"><img src="assets/images/zh-CN/项目主界面.png" alt="AI Drama Studio 项目工作台" width="900"></p>
+
+<details>
+<summary>项目设置与创作工具</summary>
+
+<p><strong>新建项目</strong></p>
+<p align="center"><img src="assets/images/zh-CN/新建项目.png" alt="新建短剧项目" width="900"></p>
+
+<p><strong>导入剧本</strong></p>
+<p align="center"><img src="assets/images/zh-CN/导入剧本.png" alt="将剧本导入项目" width="900"></p>
+
+<p><strong>项目设置</strong></p>
+<p align="center"><img src="assets/images/zh-CN/项目设置.png" alt="配置项目级生成设置" width="900"></p>
+
+<p><strong>AI 服务配置</strong></p>
+<p align="center"><img src="assets/images/zh-CN/设置-AI服务配置.png" alt="配置 AI 服务与模型" width="900"></p>
+
+<p><strong>风格预设</strong></p>
+<p align="center"><img src="assets/images/zh-CN/风格预设.png" alt="管理视觉风格预设" width="900"></p>
+
+<p><strong>Agent 配置</strong></p>
+<p align="center"><img src="assets/images/zh-CN/Agent配置.png" alt="配置 AI Agent" width="900"></p>
+
+<p><strong>全剧资产库</strong></p>
+<p align="center"><img src="assets/images/zh-CN/全剧资产库.png" alt="查看和管理全剧共享资产" width="900"></p>
+</details>
+
+<details>
+<summary>单集制作流程</summary>
+
+<p><strong>原始内容</strong></p>
+<p align="center"><img src="assets/images/zh-CN/工作流-原始内容.png" alt="查看并整理本集剧情内容" width="900"></p>
+
+<p><strong>AI 改写</strong></p>
+<p align="center"><img src="assets/images/zh-CN/工作流-AI改写.png" alt="使用 AI 改写和润色剧本" width="900"></p>
+
+<p><strong>资产制作</strong></p>
+<p align="center"><img src="assets/images/zh-CN/工作流-资产制作.png" alt="制作角色与场景资产" width="900"></p>
+
+<p><strong>导演规划</strong></p>
+<p align="center"><img src="assets/images/zh-CN/工作流-导演规划.png" alt="规划分镜与导演意图" width="900"></p>
+
+<p><strong>视频制作</strong></p>
+<p align="center"><img src="assets/images/zh-CN/工作流-视频制作.png" alt="生成并检查分镜视频" width="900"></p>
+
+<p><strong>任务列表</strong></p>
+<p align="center"><img src="assets/images/zh-CN/工作流-任务列表.png" alt="跟踪生成任务进度" width="900"></p>
+
+<p><strong>视频导出</strong></p>
+<p align="center"><img src="assets/images/zh-CN/工作流-视频导出.png" alt="合并并导出本集视频" width="900"></p>
+</details>
 
 <a id="models"></a>
 ## 接入你选择的 AI 模型
